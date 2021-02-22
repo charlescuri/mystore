@@ -14,7 +14,7 @@ import mystore.repository.ProductsRepository;
  * a anotação de origem é para testes em localhost
  */
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "http://localhost:4200")//tetettttttttt
 @RestController
 @RequestMapping("/products")
 public class ProductsController {
