@@ -11,6 +11,7 @@ import mystore.repository.ProductsRepository;
 /**
  * @author Charles Curi
  * Classe que disponibiliza a url do serviço
+ * a anotação de origemé para testes em localhost
  */
 
 @CrossOrigin(origins = "http://localhost:4200")
