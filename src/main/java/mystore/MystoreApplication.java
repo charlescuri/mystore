@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author Charles Curi
- * Classe que starta a aplicação no tomcat embarcado do Spring Boot 
+ * Classe que starta a aplicação no tomcat embarcado do SpringBoot 
  */
 
 @SpringBootApplication
